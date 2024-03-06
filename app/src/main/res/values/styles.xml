@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Product.PrimaryText" parent="Widget.MaterialComponents.TextView">
+        <item name="fontFamily">serif</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Widget.Product.SecondaryText" parent="Widget.MaterialComponents.TextView">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>
